@@ -53,8 +53,9 @@ Bugs and Glitches:
 ==================
 
 Ordered by importance:
-1. Shooting a laser sometimes passes through the left side of a Munchkin
-2. See the cheats section
+
+1. Shooting a laser sometimes passes through the left side of a Munchkin.
+2. See the cheats section.
 
 Cheats:
 =======
