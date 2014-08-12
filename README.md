@@ -68,9 +68,9 @@ There are 4 cheat codes in the game, but one of them doesn't work.
 This next one is completely overpowered
 4. Press a, l, and p on the keyboard at the sime time to let the game play for you.<br/>
 Concerning cheat codes:<br/>
-Once you use a cheat code, your high score will not be recorded, so be aware.<br/>
-Concerning the autoplay cheat code:<br/>
-This one is not completely done.<br/>
-Autoplay behavior:<br/>
-* The player will teleport to be directly under the nearest missile.
-* If the player happens to be under and enemy, they will immediately exhaust all of it's ammo.
+> Once you use a cheat code, your high score will not be recorded, so be aware.<br/>
+> Concerning the autoplay cheat code:<br/>
+> > This one is not completely done.<br/>
+> > Autoplay behavior:<br/>
+> > > * The player will teleport to be directly under the nearest missile.
+> > > * If the player happens to be under and enemy, they will immediately exhaust all of it's ammo.
