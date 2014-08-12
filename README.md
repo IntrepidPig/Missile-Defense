@@ -18,9 +18,9 @@ Gameplay:
 What to do
 ----------
 
-1st priority: Block the red and yellow missiles from getting past you.
-2nd priority: Dodge the white lasers getting shot at you.
-3rd priority: Shoot your blue lasers back at the Munchkins and UFO's.
+1st priority: Block the red and yellow missiles from getting past you.<br/>
+2nd priority: Dodge the white lasers getting shot at you.<br/>
+3rd priority: Shoot your blue lasers back at the Munchkins and UFO's.<br/>
 
 What you have
 -------------
@@ -39,8 +39,8 @@ What you have
 Controls:
 =========
 
-Use the arrow keys to move left and right.
-Use the spacebar to shoot straight ahead.
+Use the arrow keys to move left and right.<br/>
+Use the spacebar to shoot straight ahead.<br/>
 
 Plans:
 ======
