@@ -67,10 +67,10 @@ There are 4 cheat codes in the game, but one of them doesn't work.
 3. (This one doesn't yet work) Press l, s and o on the keyboard at the same time to slow down everything but you.
 This next one is completely overpowered
 4. Press a, l, and p on the keyboard at the sime time to let the game play for you.
-#### Concerning cheat codes:
+#### Concerning cheat codes: ####
 Once you use a cheat code, your high score will not be recorded, so be aware.
-##### Concerning the autoplay cheat code
+##### Concerning the autoplay cheat code #####
 This one is not completely developed.
-###### Autoplay behavior:
+###### Autoplay behavior: ######
 * The player will teleport to be directly under the nearest missile.
 * If the player happens to be under and enemy, they will immediately exhaust all of it's ammo.
